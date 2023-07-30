@@ -178,21 +178,21 @@ body{
 
 .footer-button{
  
-    height:100%;
+    height:50%;
     width: 800px;
     margin: 150px auto;
 }
 .footer-button a{
     position: absolute;
-    left: 845px;
-    top: 2333px;
+    left: 841px;
+    top: 2246px;
 
 }
 .footer-button h2{
     color:white;
     position: absolute;
-    left: 360px;
-    top: 2300px;
+    left: 375px;
+    top: 2216px;
     font-size: 38px;
 
 }

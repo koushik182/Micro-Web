@@ -166,7 +166,7 @@ padding-bottom: 9px;
 .banner-section {
   position: relative;
   padding: 150px 0px;
-  color: rgb(80, 80, 80);
+  color: rgb(54, 54, 54);
 }
 
 .banner-section::after {
@@ -195,7 +195,7 @@ padding-bottom: 9px;
   margin-bottom: 31px;
 }
 .banner-content a{
-  color: #556263;
+  color: #303435;
   font-size: 25px;
   background-color: white;
   padding: 20px 30px;

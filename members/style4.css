@@ -180,19 +180,19 @@ body{
  
     height:100%;
     width: 800px;
-    margin: 150px auto;
+    margin: 50px auto;
 }
 .footer-button a{
     position: absolute;
     left: 845px;
-    top: 2333px;
+    top: 2214px;
 
 }
 .footer-button h2{
     color:white;
     position: absolute;
     left: 360px;
-    top: 2300px;
+    top: 2188px;
     font-size: 38px;
 
 }
@@ -212,7 +212,7 @@ body{
 .icon{
     position: absolute;
     left: 591px;
-    top: 2720px;
+    top: 2521px;
 }
 .footer-end p{
     color: rgba(54, 57, 88,100%);
